@@ -3,4 +3,5 @@ dist/
 __pycache__/
 *.pyc
 .DS_Store
-.vscode/
+.vscode/patients.db
+patients.db
